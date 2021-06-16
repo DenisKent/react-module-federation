@@ -1,0 +1,1 @@
+declare module 'mfe2/Button';
